@@ -1,0 +1,12 @@
+install:
+  commands:
+    - ["npm", "install", "--include=dev"]
+    - ["npx", "next", "build"]
+
+run:
+  command: ["node", ".next/standalone/server.js"]
+
+profile:
+  label: "Data Readiness"
+  description: "Data quality assessment for MDM source tables — Providers & Recipients"
+  icon: public/icon.svg

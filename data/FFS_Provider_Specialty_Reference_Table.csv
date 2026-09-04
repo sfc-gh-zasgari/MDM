@@ -1,0 +1,73 @@
+﻿OBJECTID,Provider_Specialty_Code,Description
+1,,A blank cell indicates that no provider specialty data is reported
+2,-,A dash indicates that no specialty information is required
+3,00,General Practitioner (Dentists Only)
+4,01,General Practice
+5,02,General Surgery
+6,03,Allergy
+7,04,"Otology, Laryngology, Rhinology"
+8,05,Anesthesiology
+9,06,Cardiovascular Disease (M.D. only)
+10,07,Dermatology
+11,08,Family Practice
+12,09,Gynecology (D.O. only)
+13,10,"Gastroenterology (M.D. only), Oral Surgeon (Dentists Only)"
+14,11,Aviation (M.D. only)
+15,12,Manipulative Therapy (D.O. only)
+16,13,Neurology (M.D. only)
+17,14,Neurological Surgery
+18,15,"Obstetrics (D.O. only), Endodontist (Dentists Only)"
+19,16,Obstetrics-Gynecology (M.D. Only) Neonatal
+20,17,"Ophthalmology, Otolaryngology, Rhinology (D.O.only)"
+21,18,Ophthalmology
+22,19,Dentists (DMD)
+23,2,Nurse Practitioner (non-physician medical practitioner)
+24,20,"Orthopedic Surgery, Orthodontist (Dentists Only)"
+25,21,Pathologic Anatomy: Clinical Pathology (D.O. only)
+26,22,Pathology (M.D. only)
+27,23,Peripheral Vascular Disease or Surgery (D.O. only)
+28,24,Plastic Surgery
+29,25,"Physical Medicine and Rehabilitation, Certified Orthodontist (Dentists Only)"
+30,26,Psychiatry (child)
+31,27,Psychiatry Neurology (D.O. only)
+32,28,Proctology (colon and rectal)
+33,29,Pulmonary Diseases (M.D. only)
+34,3,Physician Assistant (non-physician medical practitioner)
+35,30,"Radiology,  Pedodontist (Dentists Only)"
+36,31,"Roentgenology, Radiology (M.D. only)"
+37,32,Radiation Therapy (D.O. only)
+38,33,Thoracic Surgery
+39,34,Urology and Urological Surgery
+40,35,Pediatric Cardiology (M.D. only)
+41,36,Psychiatry
+42,38,Geriatrics
+43,39,Preventive (M.D. only)
+44,4,Nurse Midwife (non-physician medical practitioner)
+45,40,"Pediatrics, Periodontist (Dentists Only)"
+46,41,Internal Medicine
+47,42,Nuclear Medicine
+48,43,Pediatric Allergy
+49,44,Public Health
+50,45,Nephrology (Renal-Kidney)
+51,46,Hand Surgery
+52,47,Miscellaneous
+53,50,Prosthodontist (Dentists Only)
+54,60,Oral Pathologist (Dentists Only)
+55,66,Emergency Medicine (Urgent Care)
+56,67,Endocrinology
+57,68,Hematology
+58,70,"Clinic (mixed specialty), Public Health (Dentists Only)"
+59,77,Infectious Disease
+60,78,Neoplastic Diseases/Oncology
+61,79,Neurology-Child
+62,80,Full-Time Facility (Dentists Only)
+63,83,Rheumatology
+64,84,Surgery-Head and Neck
+65,85,Surgery-Pediatric
+66,89,Surgery-Traumatic
+67,90,Pathology-Forensic
+68,91,Pharmacology-Clinical
+69,93,"Marriage, family and child counselor"
+70,94,Licensed clinical social worker
+71,95,Registered nurse
+72,99,Unknown (on EDS claims)

@@ -1,0 +1,12 @@
+install:
+  commands:
+    - ["npm", "install", "--include=dev"]
+    - ["npx", "next", "build"]
+
+run:
+  command: ["node", ".next/standalone/server.js"]
+
+profile:
+  label: "MDM Dashboard"
+  description: "Master Data Management — Provider & Recipient Entity Resolution for Health & Human Services"
+  icon: public/icon.svg

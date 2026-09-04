@@ -1,0 +1,21 @@
+definition_version: "2"
+
+entities:
+  readiness_dashboard:
+    type: snowflake-app
+    identifier:
+      name: MDM_CA_AUG24_READINESS
+      database: MDM
+      schema: PUBLIC
+    artifacts:
+      - src: ./*
+        dest: ./
+        ignore:
+          - .git
+          - node_modules
+          - .next
+          - __tests__
+          - "*.tsbuildinfo"
+          - AGENTS.md
+          - README.md
+    query_warehouse: COMPUTE_WH
